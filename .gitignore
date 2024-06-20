@@ -1,0 +1,15 @@
+# setuptools 
+dist/
+
+# project
+__pycache__/
+
+# vscode
+.vscode/
+
+# Others
+*.egg-info/
+apikick-test/
+
+# Test 
+test.py
